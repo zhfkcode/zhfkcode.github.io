@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>无缝轮播实践</title>
+    <style type="text/css">
+        *{margin:0;padding:0;list-style:none;}
+        .nav{
+            width:651px;height:274px;margin:100px auto;border:5px solid #1111ee;
+            font-family:"宋体";font-size: 50px;overflow: hidden;position: relative;
+        }
+        .nav .images{
+            width:4000px;position: absolute;left: 0;
+        }
+        .nav .images li{
+            float:left;
+        }
+        .nav .num{
+            position: absolute;width: 100%; bottom: 8px;left: 0;text-align: center;
+            font-size: 0px;
+        }
+        .nav .num li{
+            display: inline-block;width: 15px;height: 15px;background-color: dimgrey;
+            border-radius: 50%;cursor: pointer;margin-right: 5px;
+        }
+        .nav .num .on{background-color: coral;}
+        .nav .btn{
+            width: 40px;height: 60px;background: rgba(0,0,0,0.5);position: absolute;
+            top: 50%;margin-top: -30px;cursor: pointer;text-align: center;line-height: 60px;
+            color: white;display: none;
+        }
+        .nav:hover .btn{display: block;}
+        .nav .btn_l{left:0;}
+        .nav .btn_r{right:0;}
+    </style>
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var i=0;
+            var size=4;
+//            点击向左轮播
+            $(".nav .btn_l").click(function () {
+                i--;
+                if(i==-1){
+                    $(".nav .images").css({left:-(size-1)*217});
+                    i=size-2;
+                }
+                $(".nav .images").stop().animate({left:-i*217}, 500);
+            });
+//            点击向右轮播
+            $(".nav .btn_r").click(function () {
+                i++;
+                if(i==size){
+                    $(".nav .images").css({left:0});
+                    i=1;
+                }
+                $(".nav .images").stop().animate({left:-i*217}, 500);
+            })
+
+        })
+    </script>
+</head>
+<body>
+<div class="nav">
+    <ul class="images">
+        <li><a href="#"><img src="img/infinite1.png"></a></li>
+        <li><a href="#"><img src="img/infinite2.png"></a></li>
+        <li><a href="#"><img src="img/infinite3.png"></a></li>
+        <li><a href="#"><img src="img/infinite1.png"></a></li>
+        <li><a href="#"><img src="img/infinite2.png"></a></li>
+        <li><a href="#"><img src="img/infinite3.png"></a></li>
+    </ul>
+    <ul class="num">
+        <li class="on"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <div class="btn btn_l">&lt;</div>
+    <div class="btn btn_r">&gt;</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .nav{
+            width:500px;
+            height:300px;
+            margin:100px auto;
+            overflow: hidden;
+            position: relative;
+        }
+        .nav .images{
+            width:4000px;
+            position:absolute;
+            left:0;
+        }
+        .nav .images li{
+            float: left;
+        }
+        .nav .num{
+            position:absolute;
+            bottom:8px;
+            left:0;
+            width:100%;
+            text-align: center;
+            font-size: 0px;
+        }
+        .nav .num li{
+            display:inline-block;
+            width: 15px;
+            height:15px;
+            border-radius: 50%;
+            background-color:#f0f;
+            cursor:pointer;
+            margin-right:5px;
+        }
+        .nav .num .on{
+            background-color: #4d4948;
+        }
+        .nav .btn{
+            width:40px;height:60px;
+            background-color: rgba(0,0,0,0.5);
+            position:absolute;
+            top:50%;
+            margin-top:-30px;
+            line-height:60px;
+            color:#fff;
+            text-align: center;
+            cursor:pointer;
+            display:none;
+        }
+        .nav:hover .btn{display:block}
+        .nav .btn1{
+            left:0;
+        }
+        .nav .btn2{
+            right:0;
+        }
+    </style>
+</head>
+<body>
+<div class="nav">
+    <ul class="images">
+        <li><img src="../img/1.jpg" alt=""/></li>
+        <li><img src="../img/2.jpg" alt=""/></li>
+        <li><img src="../img/1.jpg" alt=""/></li>
+        <li><img src="../img/2.jpg" alt=""/></li>
+    </ul>
+    <ul class="num">
+        <li class="on"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <div class="btn btn1">&nbsp;</div>
+    <div class="btn btn2">&nbsp;</div>
+</div>
+<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        var lWidth=$('.nav .images li').width();
+        console.log(lWidth);
+        var clone=$(".nav .images li").first().clone();
+        $(".nav .images").append(clone);
+        var i=0;
+        var size=$(".nav .images li").size();
+//            点击向左轮播
+        $(".nav .btn1").click(function () {
+            i--;
+            if(i==-1){
+                $(".nav .images").css({left:-(size-1)*lWidth});
+                i=size-2;
+            }
+            $(".nav .images").stop().animate({left:-i*lWidth}, 500);
+            $(".nav .num li").eq(i).addClass("on").siblings().removeClass("on");
+        });
+//            点击向右轮播
+        $(".nav .btn2").click(function () {
+            moveR();
+        });
+//            向右轮播函数
+        function moveR() {
+            i++;
+            if(i==size){
+                $(".nav .images").css({left:0});
+                i=1;
+            }
+            $(".nav .images").stop().animate({left:-i*lWidth}, 500);
+            if(i==size-1){
+                $(".nav .num li").eq(0).addClass("on").siblings().removeClass("on");
+            }else {
+                $(".nav .num li").eq(i).addClass("on").siblings().removeClass("on");
+            }
+        }
+//            鼠标滑过圆点
+        $(".nav .num li").hover(function () {
+            var index=$(this).index();
+            i=index;
+            $(".nav .images").stop().animate({left:-i*lWidth}, 500);
+            $(this).addClass("on").siblings().removeClass("on");
+        });
+//            定时自动轮播
+        var t=setInterval(function () {
+            moveR();
+        },1500);
+//            鼠标滑过图片停止自动轮播
+        $(".nav").hover(function(){
+                    clearInterval(t);},
+                function(){
+                    t=setInterval(function () {
+                        moveR();
+                    },1500)
+                });
+    })
+</script>
+</body>
+</html>
