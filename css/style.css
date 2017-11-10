@@ -1,0 +1,338 @@
+.flex{
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: nowrap;
+    -webkit-flex-wrap: nowrap;
+}
+
+.main{
+    background: url('../images/snow-1.jpg') no-repeat center/cover;
+    height:100vh;
+    overflow: hidden;
+}
+.go-main{
+    position: absolute;
+    top: 67%;
+    right: 10%;
+}
+.go-main p{
+    font-size:25px;
+    color: #333;
+    line-height: 60px;
+    user-select: none;
+    -webkit-user-select: none;
+    background-image: -webkit-linear-gradient(left, #333, #333 5%,#fff 10%, #333 15%, #333);
+    background-size: 200%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-animation: mask 3s infinite;
+}
+@-webkit-keyframes mask {
+    0%  { background-position: 0 0;}
+    100% { background-position: -100% 0;}
+}
+.menu{
+    position: absolute;
+    top:0;
+    left:0;
+}
+.menu .menu-list{
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: nowrap;
+    -webkit-flex-wrap: nowrap;
+    margin:50px 0 0 50px;
+}
+.menu li {
+    padding:10px 20px;
+    flex:0 0 auto;
+    position: relative;
+}
+.menu li:hover{
+    box-shadow: 0 0 3px 1px #fff;
+}
+.menu li:hover a{
+    color: #fff;
+
+}
+.menu li a{
+    font-size: 16px;
+    color:#000;
+    position: relative;
+    z-index: 1;
+}
+.menu li::before, .menu li::after {
+    box-sizing: border-box;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.menu li::before, .menu li::after {
+    border: 2px solid transparent;
+    width: 0;
+    height: 0;
+}
+.menu li::before {
+    top: 0;
+    left: 0;
+}
+.menu li::after {
+    bottom: 0;
+    right: 0;
+}
+.menu li:hover{
+    color: #fff;
+}
+.menu li:hover::before,.menu li:hover::after {
+    width: 100%;
+    height: 100%;
+}
+.menu li:hover::before {
+    border-top-color: #fff;
+    border-right-color: #fff;
+    -webkit-transition: width 0.2s ease-out 0.1s, height 0.1s ease-out 0.3s;
+    transition: width 0.2s ease-out 0.1s, height 0.1s ease-out 0.3s;
+}
+.menu li:hover::after {
+    border-bottom-color: #fff;
+    border-left-color: #fff;
+    -webkit-transition: border-color 0s ease-out 0.3s, width 0.2s ease-out 0.4s, height 0.1s ease-out 0.6s;
+    transition: border-color 0s ease-out 0.3s, width 0.2s ease-out 0.4s, height 0.1s ease-out 0.6s;
+}
+
+/*我的信息*/
+.info-wrapper{
+    position: relative;
+    background: url('../images/snow-2.jpg') no-repeat center/cover;
+    height: 100vh;
+    overflow-y: -webkit-paged-x;
+}
+.info-wrapper .container{
+   position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+}
+.info-wrapper .flex{
+    position: relative;
+    background: rgba(0,0,0,0.7);
+    height:100vh;
+    flex-direction: column;
+    justify-content: center;
+    color:#fff;
+}
+.info-wrapper .info-head .content{
+    text-align: center;
+}
+.info-wrapper .info-head img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px 2px #fff;
+    margin-left:-50px;
+    opacity:0;
+}
+.info-wrapper .info-head.animate img{
+    opacity:1;
+    margin-left:0;
+    transition: all 1s;
+}
+.info-wrapper .info-head .text{
+    display: inline-block;
+    height: 130px;
+    line-height:25px;
+    vertical-align: top;
+    border-left:1px solid #fff;
+    margin-left: 100px;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.info-wrapper .info-head.animate .name{
+    margin-left: 0;
+    opacity:1;
+    transition: all 1s;
+}
+.info-head .name{
+    margin-left: 100px;
+    opacity: 0;
+    margin-bottom:20px;
+}
+.info-head .name span:first-child{
+    font-size:24px;
+    margin-right:15px;
+}
+/*基本资料*/
+.info-wrapper .base{
+    background: rgba(0,0,0,0.6);
+}
+.info-wrapper .base .title{
+    font-size:26px;
+    font-weight: 600;
+    text-align: center;
+    margin:0 50px;
+    margin-bottom:100px;
+    opacity: 0;
+    transform: scale(0.1);
+}
+.info-wrapper .base.animate .title{
+    opacity: 1;
+    transform: scale(1) rotate(360deg);
+    transition: all 1s;
+}
+.info-wrapper .base .title:hover{
+    transform: skew(10deg);
+    /*color:#ff0;*/
+    transition: all 1s;
+}
+.info-wrapper .base-text{
+    display: flex;
+    justify-content: space-around;
+}
+.info-wrapper .base-text li{
+    font-size:16px;
+    line-height:26px;
+    list-style: circle;
+}
+.info-wrapper .base-text ul{
+    margin-top:30px;
+    opacity: 0;
+}
+.info-wrapper .animate .base-text ul{
+    margin-top:0;
+    opacity: 1;
+    transition: all 0.5s 1s;
+}
+.info-wrapper .animate .base-text :nth-child(2){
+    transition: all 0.5s  1.5s;
+}
+.info-wrapper .animate .base-text :nth-child(3){
+    transition: all 0.5s 2s;
+}
+.info-wrapper .base-text li:hover{
+    color: #417fbf;
+}
+.info-wrapper .pic{
+    background: rgba(0,0,0,0.5);
+}
+.info-wrapper .favo{
+    background: rgba(0,0,0,0.4);
+}
+.info-wrapper .want-say{
+    background: rgba(0,0,0,0.3);
+}
+.info-wrapper .pic .title{
+    font-size:24px;
+    margin-bottom:50px;
+    transform: translateY(50px);
+    text-align: center;
+    opacity: 0;
+}
+.info-wrapper .pic.animate .title{
+    opacity: 1;
+    transform: translateY(0);
+    margin-bottom:50px;
+    transition: all 2s;
+}
+#wrap{
+    width:120px;
+    height:180px;
+    margin:150px auto;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: perspective(800px) rotateY(0deg) rotateX(-10deg);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#wrap img{
+    width:120px;
+    height:180px;
+    position: absolute;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #fff;
+    -webkit-box-reflect:below 5px -webkit-linear-gradient(transparent,transparent 60%,rgba(0,0,0,.2));
+}
+.want-say  .title{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top:-100px;
+    opacity: 0;
+}
+.want-say.animate  .title{
+    margin-top:0;
+    opacity: 1;
+    transition: all 1s;
+}
+.want-say  .base-text{
+    display: block;
+    font-size:18px;
+    line-height:30px;
+    text-align: center;
+    margin-right:200px;
+    opacity: 0;
+}
+.want-say  .base-text p{
+    margin-bottom:30px;
+ }
+.want-say.animate  .base-text{
+    opacity: 1;
+    margin-right:0;
+    transition: all 1s 1s;
+}
+.want-say img{
+    transform: rotate(0) scale(0.2);
+    opacity: 0;
+}
+.want-say.animate img{
+    transform: rotate(360deg) scale(1);
+    opacity: 1;
+    transition: all 0.5s 2s;
+}
+/*右侧按钮*/
+.page-menu{
+    position: absolute;
+    top:50%;
+    right:30px;
+}
+.page-menu li{
+    height:30px;
+    min-width: 82px;
+    text-align: right;
+}
+.page-menu li .circle{
+    display: inline-block;
+    width:5px;
+    height:5px;
+    border-radius: 50%;
+    background: #fff;
+}
+.page-menu li .text{
+    display: inline-block;
+    opacity:0;
+    font-size:12px;
+    color:#fff;
+    margin-right: 10px;
+    vertical-align: text-bottom;
+}
+.page-menu li:hover .circle{
+   transform: scale(1.8);
+    transition: all 0.5s;
+}
+.page-menu li:hover .text,.page-menu li.active .text{
+    opacity:0.8;
+    transition: all 1s;
+}
+.page-menu li.active .circle{
+    transform: scale(2.2);
+    transition: all 0.5s;
+}
+
+
+
+
+
+
+

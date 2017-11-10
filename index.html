@@ -2,9 +2,44 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.let_it_snow.js"></script>
 </head>
     <body>
-    hello world
-    <a href='carsoul/carousel.html'>klun</a>
+    <div class="menu">
+        <ul class="menu-list">
+            <li><a href="#">首页</a></li>
+            <li><a href="aboutme/introduction.html">看我</a></li>
+            <li><a href="#">心情</a></li>
+            <li><a href="#">技术站</a></li>
+            <li><a href="#">音乐</a></li>
+            <li><a href="#">来打我呀！！</a></li>
+        </ul>
+    </div>
+    <div class="go-main">
+        <p>  北风卷地白草折<br>胡天八月即飞雪<br>忽如一夜春风来<br>千树万树梨花开</p>
+    </div>
+    <div class="main">
+        <div class="page_container">
+            <canvas width="100%" height="100%" class="snow"></canvas>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $("canvas.snow").let_it_snow({
+                windPower: 5,
+                speed: 1,
+                opacity: 0.1,
+                image: 'images/ParticleSmoke.png'
+            });
+        });
+    </script>
+
     </body>
 </html>
