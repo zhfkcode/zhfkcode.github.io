@@ -2,76 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935611bc-fdda-48f1-936b-c426a8496209" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ParticleSmoke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/abc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cheer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/haimian.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/snow-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/snow-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/timg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aboutme/introduction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/aboutMe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.let_it_snow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mousewheel.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码.rar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/img/77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/QQ音乐旋转木马图片轮播代码/js/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/btn_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/btn_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/images/旋转木马.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/infinite1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/infinite2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/infinite3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/measu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/img/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装的插件.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/seal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/seal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/seal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/btn_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/封装轮播插件/图片素材/btn_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/手机端3D效果切换.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/手机轮播.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carsoul/无限点击滚动.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/timg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/Maria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/Vincent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/hcsmlive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/tt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/zzg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/Maria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/Vincent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/hcsmlive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/tt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/zzg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/album.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/album_cover_mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/control_panel_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/player_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/songs_progress_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/songs_progress_color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/And_Then_I_Kissed_Him.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Brothers.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Maria.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/There_You'll_Be.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Vincent.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/awbz.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/fom.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/hn.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/mjtdn.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/qr.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/tennessee.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/th.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/thh.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/callMe/callMe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/awbz.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/hn.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/mjtdn.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/qr.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/th.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/thh.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myheart/heart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skil/skil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutme/introduction.html" afterPath="$PROJECT_DIR$/aboutme/introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/carsoul/images/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -84,14 +61,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5512223">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="6" column="56" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="6" selection-end-column="56" />
+                <state relative-caret-position="570">
+                  <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="music.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/music/music.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="skil.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/skil/skil.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+                  <folding>
+                    <element signature="n#article#1;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#article#2;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#article#3;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="callMe.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/callMe/callMe.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="heart.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myheart/heart.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+                  <folding>
+                    <element signature="n#article#1;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#article#2;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="music.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/music/music.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5310">
+                  <caret line="177" column="40" lean-forward="false" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -100,8 +134,8 @@
           <file leaf-file-name="introduction.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+                <state relative-caret-position="90">
+                  <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
                   <folding>
                     <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -115,65 +149,16 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index3.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="7020">
-                  <caret line="234" column="23" lean-forward="false" selection-start-line="234" selection-start-column="23" selection-end-line="234" selection-end-column="23" />
+                <state relative-caret-position="142">
+                  <caret line="470" column="11" lean-forward="false" selection-start-line="470" selection-start-column="11" selection-end-line="470" selection-end-column="11" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="aboutMe.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/aboutMe.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="font.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/font.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="780">
-                  <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="timg.jpg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/timg.jpg">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="jquery.let_it_snow.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3120">
-                  <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-                  <folding>
-                    <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -185,16 +170,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>init</find>
+      <find>songData</find>
+      <find>song</find>
+      <find>关闭列表</find>
     </findStrings>
+    <replaceStrings>
+      <replace>music</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -207,10 +198,17 @@
         <option value="$PROJECT_DIR$/js/jquery.let_it_snow.js" />
         <option value="$PROJECT_DIR$/css/font.css" />
         <option value="$PROJECT_DIR$/aboutme/test.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/aboutMe.js" />
+        <option value="$PROJECT_DIR$/music/music.json" />
+        <option value="$PROJECT_DIR$/music/music.js" />
+        <option value="$PROJECT_DIR$/music/music.css" />
+        <option value="$PROJECT_DIR$/callMe/callMe.html" />
+        <option value="$PROJECT_DIR$/myheart/heart.html" />
         <option value="$PROJECT_DIR$/aboutme/introduction.html" />
+        <option value="$PROJECT_DIR$/skil/skil.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/music/music.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -228,9 +226,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="955" />
-    <option name="y" value="12" />
-    <option name="width" value="966" />
+    <option name="x" value="977" />
+    <option name="width" value="953" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -251,6 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -262,12 +260,7 @@
             <path>
               <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="aboutme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="callMe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -277,19 +270,28 @@
             <path>
               <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="myheart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="skil" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/text" />
+    <property name="last_opened_file_path" value="E:/我的项目/oa" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -299,6 +301,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Youxun\zhfkcode.github.io\images" />
+      <recent name="E:\Youxun\zhfkcode.github.io\music" />
       <recent name="E:\Youxun\zhfkcode.github.io\js" />
       <recent name="E:\Youxun\zhfkcode.github.io\aboutme" />
       <recent name="E:\Youxun\zhfkcode.github.io\css" />
@@ -333,29 +336,45 @@
       <workItem from="1510110913473" duration="16013000" />
       <workItem from="1510189156915" duration="4052000" />
       <workItem from="1510275504533" duration="165000" />
+      <workItem from="1510283314343" duration="241000" />
+      <workItem from="1510555045637" duration="34000" />
+      <workItem from="1510621414501" duration="681000" />
+      <workItem from="1510816482129" duration="2213000" />
+      <workItem from="1510900324789" duration="9828000" />
+      <workItem from="1511141919377" duration="17197000" />
+      <workItem from="1511226069758" duration="13354000" />
     </task>
+    <task id="LOCAL-00001" summary="fhd">
+      <created>1510283505824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510283505824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72402000" />
+    <option name="totallyTimeSpent" value="115950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.046364594" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15858799" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -368,97 +387,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fhd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fhd" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/aboutMe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/jiaoben3445/js/zzsc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-          <folding>
-            <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/aboutMe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/timg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding>
-            <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -487,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,9 +475,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
           <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding>
-            <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,9 +527,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
           <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding>
-            <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
           <caret line="47" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,9 +558,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
-          <folding>
-            <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -660,25 +587,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/snow-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/ParticleSmoke.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -707,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,32 +633,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
           <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding>
-            <marker date="1509848254778" expanded="true" signature="6015:6028" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7020">
-          <caret line="234" column="23" lean-forward="false" selection-start-line="234" selection-start-column="23" selection-end-line="234" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/jiaoben3445/js/zzsc.js" />
     <entry file="file://$PROJECT_DIR$/js/aboutMe.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/music.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="112" column="9" lean-forward="false" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/images/album_cover_mask.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/images/player_img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/abc.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/music.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5310">
+          <caret line="177" column="40" lean-forward="false" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/music/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="e#4350#4759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ParticleSmoke.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="90">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -758,17 +713,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/jiaoben3445/js/zzsc.js">
+    <entry file="file://$PROJECT_DIR$/myheart/heart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="360">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="n#article#1;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skil/skil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="n#article#1;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#3;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="56" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="570">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callMe/callMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="470" column="11" lean-forward="false" selection-start-line="470" selection-start-column="11" selection-end-line="470" selection-end-column="11" />
           <folding />
         </state>
       </provider>

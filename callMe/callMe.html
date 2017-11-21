@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <title>来打我呀！！</title>
+    <link rel="shortcut icon" href="../images/favicon.ico">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/jquery.js"></script>
+</head>
+</head>
+<body>
+<div class="call">
+    <div class="menu">
+        <ul class="menu-list">
+            <li><a href="../index.html">首页</a></li>
+            <li><a href="../aboutme/introduction.html">看我</a></li>
+            <li><a href="../myheart/heart.html">心情</a></li>
+            <li><a href="../skil/skil.html">技术站</a></li>
+            <li><a href="../music/music.html">音乐</a></li>
+            <li><a href="#">来打我呀！！</a></li>
+        </ul>
+    </div>
+    <div class="call-wrapper flex">
+        <div class="content">
+            <div>
+                <div class="text"></div>
+                <div class="pointer">|</div>
+            </div>
+            <div class="bottom">
+                <img src="../images/timg.gif" alt="">
+                <p class="link">玩笑开完了！！！欢迎留下你建议或意见。</p>
+            </div>
+        </div>
+        <div class="copy">
+            <form>
+                <div class="line-item">
+                    <label>扣扣</label>
+                    <input type="text">
+                </div>
+                <div class="line-item">
+                    <label>微信</label>
+                    <input type="text">
+                </div>
+                <div class="line-item">
+                    <label>你想说的</label>
+                    <textarea></textarea>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    var str =" 你很好呀！！这个都敢点，可见是高手，既然来了，那我就给你露一手吧。让你见识一下本门绝学。本门绝学可是融合了一阳指与狮吼功之威力。威力无穷的。。。\n你来打我呀!!!"
+    var content=$('.content .text');
+    var textVal ='';
+    var index=0;
+    var strLength = str.length;
+    var timer=setInterval(function(){
+        textVal = str[index];
+        textVal = textVal === '\n'?'<br>':textVal;
+        content.append(textVal);
+        if(index > strLength){
+            clearInterval(timer);
+            $(".content .bottom").addClass('active')
+        }else{
+            index += 1
+        }
+    },200)
+$(".content .link").click(function(){
+    $('.content').css('display','none');
+    $(".copy").css({"display":"block"}).animate({'margin':"auto",'opacity':1,},1000)
+})
+</script>
+</html>

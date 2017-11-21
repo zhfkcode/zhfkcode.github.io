@@ -4,7 +4,16 @@
     flex-wrap: nowrap;
     -webkit-flex-wrap: nowrap;
 }
-
+/*美化滚动条*/
+::-webkit-scrollbar {width: 4px;}
+/* 滚动条的滑轨背景颜色 */
+::-webkit-scrollbar-track {background: rgba(255, 255, 255, 0.5);}
+/* 滑块颜色 */
+::-webkit-scrollbar-thumb {background: rgba(0,0,0,.3);border-radius: 4px;}
+/* 滑轨两头的监听按钮颜色 */
+::-webkit-scrollbar-button {background: rgba(0,0,0,0);}
+/* 横向滚动条和纵向滚动条相交处尖角的颜色 */
+::-webkit-scrollbar-corner {background-color: black;}
 .main{
     background: url('../images/snow-1.jpg') no-repeat center/cover;
     height:100vh;
@@ -35,6 +44,7 @@
     position: absolute;
     top:0;
     left:0;
+    z-index: 10;
 }
 .menu .menu-list{
     display: flex;
@@ -60,6 +70,12 @@
     color:#000;
     position: relative;
     z-index: 1;
+}
+.music-menu li a{
+    color:#fff;
+}
+.music-menu li a:hover{
+    color:#c4ffa6;
 }
 .menu li::before, .menu li::after {
     box-sizing: border-box;
@@ -198,20 +214,21 @@
     margin-top:30px;
     opacity: 0;
 }
+.info-wrapper .base-text li:hover{
+    color: #417fbf;
+}
 .info-wrapper .animate .base-text ul{
     margin-top:0;
     opacity: 1;
     transition: all 0.5s 1s;
 }
-.info-wrapper .animate .base-text :nth-child(2){
+.info-wrapper .animate .base-text ul:nth-child(2){
     transition: all 0.5s  1.5s;
 }
-.info-wrapper .animate .base-text :nth-child(3){
+.info-wrapper .animate .base-text ul:nth-child(3){
     transition: all 0.5s 2s;
 }
-.info-wrapper .base-text li:hover{
-    color: #417fbf;
-}
+
 .info-wrapper .pic{
     background: rgba(0,0,0,0.5);
 }
@@ -329,10 +346,215 @@
     transform: scale(2.2);
     transition: all 0.5s;
 }
+/*心情*/
+.heart{
+    height: 100vh;
+    background: url(../images/abc.jpg) no-repeat center/cover;
+    overflow: hidden;
+}
+.heart-wrapper{
+    width:70%;
+    margin:150px auto;
+    overflow: auto;
+    height: 70vh;
+}
+.heart-wrapper .h-title{
+    font-size: 26px;
+    font-weight: normal;
+    padding-bottom: 10px;
+    border-bottom:1px solid #bbb;
+}
+.heart-wrapper .heart-content article{
+    padding-top:30px;
+    margin-left:10px;
+}
+.heart-content .title .time{
+    display: inline-block;
+    font-size:30px;
+    margin-right:20px;
+    margin-bottom:10px;
+    color:#484675;
+}
+.heart-content .title .toNow{
+    font-size:14px;
+    color:#333;
+}
+.heart-content .title .address{
+    font-size:14px;
+    color:#333;
+}
+.heart-content .content .text{
+    width:60%;
+    font-size:18px;
+    line-height: 30px;
+    color: #333;
+    border-bottom:1px solid #eee;
+}
+.heart-content .content .img-list{
+    padding:20px 0 ;
+}
+.heart-content .content .img-list img{
+    flex: 0 0 150px;
+    width:150px;
+    height:150px;
+    margin-right:10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+/*技术站*/
+.skil .menu-list li:hover a{
+color:#007fff
+}
+.skil{
+    background: url(../images/snow-2.jpg) no-repeat center/cover;
+    height:100vh;
+}
+.skil-wrapper{
+    width:50%;
+    margin: 120px auto;
+}
+.skil-wrapper .skil-title{
+   background: rgba(255,255,255,0.7);
+}
+.skil-wrapper .skil-title span.active{
+    color:#268fdc;
+}
+.skil-wrapper .skil-title span{
+    display: inline-block;
+    padding:10px 25px;
+    cursor:pointer;
+    color:#333;
+}
+.skil-wrapper .skil-content article{
+    padding:40px 20px;
+    background: rgba(255,255,255,.5);
+    border-bottom: 1px solid #fff;
+}
+.skil-wrapper .skil-content article:hover{
+    background: rgba(255,255,255,.3);
+}
+.skil-content .title{
+    margin-bottom: 10px;
+}
+.skil-content .title .text{
+    font-size:22px;
+    font-weight: 700;
+    display: inline-block;
+    margin-right:20px;
+    cursor:pointer;
+}
+.skil-content .title .text:hover{
+    text-decoration: underline;
+}
+.skil-content .title .date{
+    font-size:16px;
+}
+.skil-content .content{
+    font-size:14px;
+    color:#666;
+    line-height: 20px;
+    word-break: break-all;
+}
+/*callme*/
+.call{
+    background: url(../images/snow-1.jpg) no-repeat center/cover;
+}
+.call .flex{
+    flex-direction: column;
+    justify-content: center;
+    height:100vh;
+    background: rgba(0,0,0,.3);
+    color:#fff;
+}
+.call-wrapper .content{
+    width:40%;
+    margin:0 auto;
+    text-align: center;
+}
+.call-wrapper .content .text{
+    font-size:24px;
+    line-height:45px;
+}
+.call-wrapper .content .text{
+    display: inline;
+}
+.call-wrapper .content .pointer{
+    display: inline-block;
+    font-size:24px;
+    animation: shark 0.5s ease infinite alternate;
+}
+@keyframes shark {
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
+.call-wrapper .content .bottom.active img{
+    opacity:1 ;
+    transform: rotate(360deg) scale(1);
+    transition: all 0.5s;
+}
+.call-wrapper .content .bottom.active .link{
+    opacity:1 ;
+    transition: all 0.5s 3s;
+}
+.call-wrapper .content img{
+   opacity:0;
+    transform:rotate(0) scale(0.5);
+    margin-top:30px;
+}
+.call-wrapper .content .link{
+    opacity: 0;
+    font-size:18px;
+    color:#18ff6c;
+    margin-top:100px;
+    cursor: pointer;
+}
+.call-wrapper .copy{
+    display: none;
+    opacity: 0;
+    width:50%;
+    margin:0 auto;
+    text-align: center;
+}
+.call-wrapper .copy .line-item{
+    margin-bottom:20px;
+}
+.copy .line-item label{
+    display: inline-block;
+    width:90px;
+    height:35px;
+    line-height: 35px;
+    text-align: right;
+    font-size:16px;
+    color:#9ae40a;
 
-
-
-
-
-
-
+}
+.copy .line-item input{
+    width:200px;
+    height:35px;
+    line-height: 35px;
+    font-size:16px;
+    color:#39a793;
+    border:1px solid #666;
+    outline:none;
+    border-radius: 5px;
+    padding:0 10px;
+    background: rgba(255,255,255,0.5);
+}
+.copy .line-item textarea{
+    width:200px;
+    min-height:50px;
+    line-height: 20px;
+    font-size:16px;
+    color:#39a793;
+    border:1px solid #666;
+    outline:none;
+    border-radius: 5px;
+    padding:10px;
+    background: rgba(255,255,255,0.5);
+    vertical-align: middle;
+}
