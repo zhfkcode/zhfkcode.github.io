@@ -8,6 +8,7 @@
     <link rel="shortcut icon" href="../images/favicon.ico">
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
+    <script src='../js/jquery.js'></script>
 </head>
 <body>
 <div class="skil">
@@ -46,9 +47,25 @@
                     <p class="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolorem impedit perspiciatis quo voluptatum. Aperiam aspernatur, deserunt d尽快尽快加快建立会计法开发分开快疯了看到激发客服啦极乐空间克拉发的卡剪短发法律会计olor eligendi error illo incidunt ipsa mollitia odit possimus quaerat repellat sunt totam? </p>
                 </article>
             </section>
-            <section class="my-show"></section>
+            <section class="my-show" style="display:none">
+                <article>
+                    <div class="title"><a class="text" href="../self-try/five-box/index.html">搞个一直不敢弄的五子棋</a> <span class="date">12-14</span></div>
+                    <p class="content">五子棋，总感觉很难，无从下手。对其充满恐惧，前几天看了一个视频，搞了一个。这只是第一版，后面再优化。。。</p>
+                </article>
+                <article>
+                    <div class="title"><a class="text" href="../self-music/s-music.html">用我刚出生大侄女的名字弄一个音乐播放器</a> <span class="date">12-23</span></div>
+                    <p class="content">我大侄女在上周，1212上午9点出生了，很开心，也恭喜我弟弟做父亲了，当然我也做大伯了，写了个音乐播放器，就用我大侄女名字命名，现在刚弄好，很多功能还带完善。。。</p>
+                </article>
+            </section>
         </div>
     </div>
 </div>
 </body>
+<script>
+    $('.skil-title span').click(function(){
+        var _thisIndex = $(this).index();
+        $(this).addClass('active').siblings().removeClass('active');
+        $('.skil-content section').eq(_thisIndex).show().siblings().hide();
+    })
+</script>
 </html>

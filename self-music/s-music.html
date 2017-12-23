@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>丽娜么好听</title>
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="shortcut icon" href="../images/favicon.ico">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/jquery.js"></script>
+</head>
+<body  class="s-music-body">
+    <div class="menu music-menu">
+        <ul class="menu-list">
+            <li><a href="../index.html">首页</a></li>
+            <li><a href="../aboutme/introduction.html">看我</a></li>
+            <li><a href="../myheart/heart.html">心情</a></li>
+            <li><a href="../skil/skil.html">技术站</a></li>
+            <li><a href="#">音乐</a></li>
+            <li><a href="../callMe/callMe.html">来打我呀！！</a></li>
+        </ul>
+    </div>
+    <div class="music-engine">
+        <div class="mod-player">
+            <header class="player-header">
+                    丽娜么好听
+            </header>
+            <div class="player-content flex">
+                <div class="music-wraper">
+                    <div class="music-kind-head">
+                        <h2 class="music-kind-title">歌单</h2>
+                        <ul class="menu-head flex">
+                            <!--<li class='active' data-key="all">全部</li>-->
+                            <li data-key="loveSong">情歌</li>
+                            <li data-key="netSong">网络歌曲</li>
+                            <li data-key="classSong">经典</li>
+                        </ul>
+                    </div>
+                    <div class="song-list-content">
+                        <a href="#" class="back-list">返回</a>
+                        <ul class="song-list-head flex">
+                            <li>歌名</li>
+                            <li>歌手</li>
+                            <li>时间</li>
+                        </ul>
+                        <div class="song-list"></div>
+                    </div>
+                </div>
+                <div class="music-lry">
+                    <div class="song-lry-info">
+                        <img src="images/albumBg.jpg" alt="">
+                        <p>歌曲名：<span class="song-name">请选歌</span></p>
+                        <p>歌手名：<span class="singer">---</span></p>
+                        <p>专辑名：<span class="album">---</span></p>
+                    </div>
+                    <div class="song-lry-wrap">
+                        <div class="lry-content">
+                            <p>来首动人的歌曲吧</p>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+            <div class="player-footer">
+                <a href="javascript:;" class="player-prev">
+                    <i class="icon-previous2"></i>
+                </a>
+                <a href="javascript:;" class="player-play">
+                        <i class="icon-play3"></i>
+                         <!--<i class="icon-pause2"></i>       -->
+                </a>
+                <a href="javascript:;" class="player-next">
+                        <i class="icon-next2"></i>
+                </a>
+                <div class="palyer-bar">
+                    <div class="bar-info flex">
+                        <div class="bat-song-info">听来自心里的声音</div>
+                        <div class="bat-song-timer">
+                            <span class="current-time">00:00</span>
+                            <span>/</span>
+                            <span class="total-time">04:30</span>
+                        </div>
+                    </div>
+                    <div class="bar-process">
+                        <div class="ball "></div>
+                    </div>
+                </div>
+                <div class="player-volume">
+                    <i class="icon-volume-medium"></i>
+                    <!-- <i class="icon-volume-mute2"></i> -->
+                    <div class="volume-process">
+                        <div class="ball"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-mask"></div>
+        <div class="bg-player"></div>
+        <audio id="music-audio" src=""></audio>
+    </div>
+</body>
+<script src="s-js.js"></script>
+<script>
+    $(function(){
+        var music1 =new MusicEngine($('.music-engine'));
+    }) 
+</script>
+</html>

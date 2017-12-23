@@ -2,53 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935611bc-fdda-48f1-936b-c426a8496209" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/timg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/Maria.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/Vincent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/hcsmlive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/tt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/max/zzg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/Maria.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/Vincent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/hcsmlive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/tt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/albumCover/min/zzg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/album.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/album_cover_mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/control_panel_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/player_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/songs_progress_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/images/songs_progress_color.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/And_Then_I_Kissed_Him.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Brothers.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Maria.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/There_You'll_Be.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/Vincent.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/awbz.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/fom.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/hn.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/mjtdn.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/qr.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/tennessee.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/th.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music/thh.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/callMe/callMe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/awbz.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/hn.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/mjtdn.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/qr.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/th.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/lyrics/thh.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/music.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myheart/heart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skil/skil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wave.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/Maria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/Vincent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/albumBg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/hcsmlive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/tt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/images/zzg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Beyond The Memory (梦的另一边) - (July).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Faded - Alan Walker.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Fight Song - Rachel Platten.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/God Is A Girl - Groove Coverage.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Kiss The Rain (雨的印记) - (李闰珉).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Stay Here Forever - Jewel.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/The Truth That You Leave (钢琴曲) - 高至豪.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Trouble Is a Friend - Lenka.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/Try - P!NK.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/三国恋 - Tank.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/不浪漫罪名 - 王杰.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/不能说的秘密 - 周杰伦.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/你还要我怎样 - 薛之谦.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/儿时 - 刘昊霖.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/凉凉 - 杨宗纬.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/出埃及记 - Maksim Mrvica.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/刚刚好 - 薛之谦.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/友情岁月 - 郑伊健.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/大鱼 (Live) - 周深.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/天使的翅膀 - 安琥.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/害怕 - (Melody Day).mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/富士山下 - 陈奕迅.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/开心的马骝 - 刘德华.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/我的回忆不是我的 - 海鸣威.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/我的梦 - 张靓颖.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/星星 - Vitas.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/月半小夜曲 - 李克勤.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/海阔天空 - BEYOND.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/玩腻 (DJ版) - 群星.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/music/遥远的她 (粤语) - 张学友.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Beyond The Memory (梦的另一边) - (July).lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Faded - Alan Walker.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Fight Song - Rachel Platten.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/God Is A Girl - Groove Coverage.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Kiss The Rain (雨的印记) - (李闰珉).lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Stay Here Forever - Jewel.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/The Truth That You Leave (钢琴曲) - 高至豪.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Trouble Is a Friend - Lenka.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/Try - P!NK.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/三国恋 - Tank.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/不浪漫罪名 - 王杰.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/不能说的秘密 - 周杰伦.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/你还要我怎样 - 薛之谦.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/儿时 - 刘昊霖.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/凉凉 - 杨宗纬.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/出埃及记 - Maksim Mrvica.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/刚刚好 - 薛之谦.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/友情岁月 - 郑伊健.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/大鱼 (Live) - 周深.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/天使的翅膀 - 安琥.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/害怕 - (Melody Day).lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/富士山下 - 陈奕迅.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/开心的马骝 - 刘德华.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/我的回忆不是我的 - 海鸣威.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/我的梦 - 张靓颖.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/星星 - Vitas.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/月半小夜曲 - 李克勤.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/海阔天空 - BEYOND.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/玩腻 (DJ版) - 群星.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/lyrics/遥远的她 (粤语) - 张学友.lrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/musicData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/s-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/self-music/s-music.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/sell-icon.ttf" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/sell-icon.woff" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutme/introduction.html" afterPath="$PROJECT_DIR$/aboutme/introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/sell-icon.eot" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/sell-icon.svg" afterPath="$PROJECT_DIR$/css/fonts/sell-icon.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skil/skil.html" afterPath="$PROJECT_DIR$/skil/skil.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,90 +92,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.40833846">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
+          <file leaf-file-name="s-music.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/self-music/s-music.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+                <state relative-caret-position="292">
+                  <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="28" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="music.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/music/music.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="skil.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/skil/skil.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-                  <folding>
-                    <element signature="n#article#1;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#article#2;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#article#3;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="callMe.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/callMe/callMe.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="heart.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/myheart/heart.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-                  <folding>
-                    <element signature="n#article#1;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#article#2;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="music.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/music/music.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="5310">
-                  <caret line="177" column="40" lean-forward="false" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="introduction.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-                  <folding>
-                    <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -153,11 +109,70 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="musicData.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/self-music/musicData.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="s-js.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/self-music/s-js.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="462">
+                  <caret line="171" column="80" lean-forward="false" selection-start-line="171" selection-start-column="80" selection-end-line="171" selection-end-column="80" />
+                  <folding>
+                    <element signature="e#1438#1691#0" expanded="false" />
+                    <element signature="e#1753#1844#0" expanded="false" />
+                    <element signature="e#1917#2017#0" expanded="false" />
+                    <element signature="e#2074#2228#0" expanded="false" />
+                    <element signature="e#2430#2760#0" expanded="false" />
+                    <element signature="e#9741#10317#0" expanded="false" />
+                    <marker date="1514012779228" expanded="true" signature="4416:4478" ph="..." />
+                    <marker date="1514012779228" expanded="true" signature="9971:10209" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="skil.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/skil/skil.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="55" column="137" lean-forward="false" selection-start-line="55" selection-start-column="137" selection-end-line="55" selection-end-column="137" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="儿时 - 刘昊霖.lrc" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/self-music/lyrics/儿时 - 刘昊霖.lrc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="142">
-                  <caret line="470" column="11" lean-forward="false" selection-start-line="470" selection-start-column="11" selection-end-line="470" selection-end-column="11" />
+                <state relative-caret-position="599">
+                  <caret line="585" column="47" lean-forward="false" selection-start-line="585" selection-start-column="22" selection-end-line="585" selection-end-column="47" />
                   <folding />
                 </state>
               </provider>
@@ -182,9 +197,17 @@
       <find>songData</find>
       <find>song</find>
       <find>关闭列表</find>
+      <find>song-list-head</find>
+      <find>songTimeInfo</find>
+      <find>volumn-process</find>
+      <find>controlProcess</find>
+      <find>picture</find>
     </findStrings>
     <replaceStrings>
       <replace>music</replace>
+      <replace>volume-process</replace>
+      <replace>songPalyTime</replace>
+      <replace>images</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -205,10 +228,14 @@
         <option value="$PROJECT_DIR$/callMe/callMe.html" />
         <option value="$PROJECT_DIR$/myheart/heart.html" />
         <option value="$PROJECT_DIR$/aboutme/introduction.html" />
-        <option value="$PROJECT_DIR$/skil/skil.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/music/music.html" />
+        <option value="$USER_HOME$/Desktop/css/typewriter.html" />
+        <option value="$PROJECT_DIR$/self-music/s-music.html" />
+        <option value="$PROJECT_DIR$/self-music/musicData.json" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/self-music/s-js.js" />
+        <option value="$PROJECT_DIR$/skil/skil.html" />
       </list>
     </option>
   </component>
@@ -248,34 +275,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="callMe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhfkcode.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="myheart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhfkcode.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +298,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/我的项目/oa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -299,12 +306,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Youxun\zhfkcode.github.io\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Youxun\zhfkcode.github.io\self-music\images" />
       <recent name="E:\Youxun\zhfkcode.github.io\images" />
       <recent name="E:\Youxun\zhfkcode.github.io\music" />
       <recent name="E:\Youxun\zhfkcode.github.io\js" />
       <recent name="E:\Youxun\zhfkcode.github.io\aboutme" />
-      <recent name="E:\Youxun\zhfkcode.github.io\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -342,7 +352,13 @@
       <workItem from="1510816482129" duration="2213000" />
       <workItem from="1510900324789" duration="9828000" />
       <workItem from="1511141919377" duration="17197000" />
-      <workItem from="1511226069758" duration="13354000" />
+      <workItem from="1511226069758" duration="14735000" />
+      <workItem from="1511312206541" duration="617000" />
+      <workItem from="1511399173650" duration="590000" />
+      <workItem from="1513749657154" duration="6474000" />
+      <workItem from="1513818803842" duration="21231000" />
+      <workItem from="1513906708532" duration="23947000" />
+      <workItem from="1513991083471" duration="16806000" />
     </task>
     <task id="LOCAL-00001" summary="fhd">
       <created>1510283505824</created>
@@ -351,17 +367,24 @@
       <option name="project" value="LOCAL" />
       <updated>1510283505824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vbbb">
+      <created>1511254811370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511254811370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115950000" />
+    <option name="totallyTimeSpent" value="186996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15858799" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1406744" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -380,6 +403,26 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15858799" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -389,187 +432,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fhd" />
-    <option name="LAST_COMMIT_MESSAGE" value="fhd" />
+    <MESSAGE value="vbbb" />
+    <option name="LAST_COMMIT_MESSAGE" value="vbbb" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-          <folding>
-            <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/timg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="56" lean-forward="false" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-          <folding>
-            <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/timg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/jiaoben3870/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -624,16 +496,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/timg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.let_it_snow.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
           <caret line="116" column="36" lean-forward="false" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,26 +535,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/abc.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/music.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5310">
-          <caret line="177" column="40" lean-forward="false" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/music/music.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-          <folding>
-            <element signature="e#4350#4759#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,73 +547,218 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
+    <entry file="file://$USER_HOME$/Desktop/css/typewriter.html" />
+    <entry file="file://$PROJECT_DIR$/music/music.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#article#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#article#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#4;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="750">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callMe/callMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myheart/heart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="600">
           <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <element signature="n#article#1;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#2;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skil/skil.html">
+    <entry file="file://$PROJECT_DIR$/music/music.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="786">
+          <caret line="177" column="40" lean-forward="false" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/introduction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/albumCover/max/Maria.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/wave.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/Beyond The Memory (梦的另一边) - (July).lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/Stay Here Forever - Jewel.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/Kiss The Rain (雨的印记) - (李闰珉).lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/Fight Song - Rachel Platten.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/Faded - Alan Walker.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/凉凉 - 杨宗纬.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/害怕 - (Melody Day).lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/富士山下 - 陈奕迅.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/开心的马骝 - 刘德华.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/月半小夜曲 - 李克勤.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/lyrics/儿时 - 刘昊霖.lrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/abc.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tt.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/timg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/albumCover/max/hcsmlive.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/images/albumBg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="585" column="47" lean-forward="false" selection-start-line="585" selection-start-column="22" selection-end-line="585" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/s-music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/musicData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self-music/s-js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="171" column="80" lean-forward="false" selection-start-line="171" selection-start-column="80" selection-end-line="171" selection-end-column="80" />
           <folding>
-            <element signature="n#article#1;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#2;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#article#3;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1438#1691#0" expanded="false" />
+            <element signature="e#1753#1844#0" expanded="false" />
+            <element signature="e#1917#2017#0" expanded="false" />
+            <element signature="e#2074#2228#0" expanded="false" />
+            <element signature="e#2430#2760#0" expanded="false" />
+            <element signature="e#9741#10317#0" expanded="false" />
+            <marker date="1514012779228" expanded="true" signature="4416:4478" ph="..." />
+            <marker date="1514012779228" expanded="true" signature="9971:10209" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/music.html">
+    <entry file="file://$PROJECT_DIR$/skil/skil.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/callMe/callMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="470" column="11" lean-forward="false" selection-start-line="470" selection-start-column="11" selection-end-line="470" selection-end-column="11" />
+        <state relative-caret-position="420">
+          <caret line="55" column="137" lean-forward="false" selection-start-line="55" selection-start-column="137" selection-end-line="55" selection-end-column="137" />
           <folding />
         </state>
       </provider>
